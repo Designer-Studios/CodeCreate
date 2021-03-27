@@ -5,7 +5,7 @@ Please DO NOT mess with and of the security files such as SECURITY.md, as it wil
 
 ## Supported Versions
 
-Firefox 8, Chrome, Edge, and Safari.
+Firefox, Chrome, Edge, and Safari.
 
 | Version | Supported          |
 | ------- | ------------------ |
