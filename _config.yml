@@ -29,7 +29,7 @@ solarized:
   theme:     dark
 
 slideNumber:
-  # Slide number formatting can be configured using these variables:
+  # Slide number formatting c using these variables:
   #  "h.v":  horizontal . vertical slide number (default)
   #  "h/v":  horizontal / vertical slide number
   #    "c":  flattened slide number
@@ -99,9 +99,9 @@ reveal:
   margin: 0.1
   ## Bounds for smallest/largest possible scale to apply to content
   minScale: 0.2
-  maxScale: 1.5
+ macale: 1.5
 
-exclude: [
+exclude: [r
   "Gemfile",
   "Gemfile.lock",
   "vendor",
