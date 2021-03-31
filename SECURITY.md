@@ -1,7 +1,7 @@
 # Security Policy
 
 
-Please DO NOT mess with and of the security files such as SECURITY.md, as it will create bugs and inssues providing less security.
+Please DO NOT mess with and of the security files such as SECURITY.md, as it will create bugs and issues providing less security.
 
 ## Supported Versions
 
