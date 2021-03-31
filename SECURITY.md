@@ -22,4 +22,4 @@ You can report a vulnrabilty by going to the discussions tab and posting what th
 
 ## Security Issues...
 
-You are not likely to experience security issue as we provide extra security testing apps and firewalls. There should be nothing to worry about.
+You are not likely to experience security issues as we provide extra security testing apps and firewalls. There should be nothing to worry about.
